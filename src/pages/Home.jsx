@@ -36,7 +36,7 @@ function Home()
               <h1 className="font-bold text-2xl ">How old is Paris city?</h1>
               <p className="text-xl mt-10"> Paris facts: Paris, the capital of France
 
-She is the core of Ile de France region (12 million people). Founded more than 2000 years ago, Paris is a modern and vibrant city with significant commercial, cultural, academic, scientific, administrative, business activity.</p>
+She is the core of Ile de France region (12 million people). Founded more than <span className="bg-red-700 opacity-50 rounded-b-lg p-0.5 text-white">2000 years ago</span>, Paris is a modern and vibrant city with significant commercial, cultural, academic, scientific, administrative, business activity.</p>
         </div>
 
 
