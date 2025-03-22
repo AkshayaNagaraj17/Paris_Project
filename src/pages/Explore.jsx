@@ -3,7 +3,7 @@ function Explore(){
 
     return(
             <>
-            <h1 className="text-6xl font-bold text-center my-10">Explore The City Of <span className="text-red-600">Love</span></h1>
+            <h1 className="text-3xl lg:text-6xl font-bold text-center my-10">Explore The City Of <span className="text-red-600">Love</span></h1>
 
             <iframe className="mx-auto w-3/4 h-150 rounded-xl" width="560" height="315" src="https://www.youtube.com/embed/XC5ssX_RZa0?si=eAAdiDGR-Nbzrebh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             <div className=" border-3 border-gray-300 p-10 m-5 rounded-lg shadow-2xl mt-10">

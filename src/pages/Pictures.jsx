@@ -16,9 +16,7 @@ function Pictures()
             className="w-full h-full object-cover rounded-lg transform group-hover:scale-105 transition duration-300"
             alt="Eiffel Tower"
           />
-          <div className="absolute inset-0 bg-black bg-opacity-30 flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
-            <h2 className="text-white text-3xl font-bold">Eiffel Tower</h2>
-          </div>
+          
         </div>
 
         
@@ -28,9 +26,7 @@ function Pictures()
             className="w-full h-full object-cover rounded-lg transform group-hover:scale-105 transition duration-300"
             alt="Louvre Museum"
           />
-          <div className="absolute inset-0 bg-black bg-opacity-30 flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
-            <h2 className="text-white text-2xl font-semibold">Louvre Museum</h2>
-          </div>
+        
         </div>
 
         <div className="relative group">
@@ -39,9 +35,7 @@ function Pictures()
             className="w-full h-full object-cover rounded-lg transform group-hover:scale-105 transition duration-300"
             alt="Notre Dame"
           />
-          <div className="absolute inset-0 bg-black bg-opacity-30 flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
-            <h2 className="text-white text-2xl font-semibold">Notre Dame</h2>
-          </div>
+          
         </div>
 
         <div className="relative group col-span-1 sm:col-span-2">
@@ -50,9 +44,7 @@ function Pictures()
             className="w-full h-full object-cover rounded-lg transform group-hover:scale-105 transition duration-300"
             alt="Champs-Élysées"
           />
-          <div className="absolute inset-0 bg-black bg-opacity-30 flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
-            <h2 className="text-white text-3xl font-bold">Champs-Élysées</h2>
-          </div>
+
         </div>
 
         <div className="relative group">
@@ -61,9 +53,7 @@ function Pictures()
             className="w-full h-full object-cover rounded-lg transform group-hover:scale-105 transition duration-300"
             alt="Montmartre"
           />
-          <div className="absolute inset-0 bg-black bg-opacity-30 flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
-            <h2 className="text-white text-2xl font-semibold">Montmartre</h2>
-          </div>
+          
         </div>
 
         <div className="relative group">
@@ -72,9 +62,7 @@ function Pictures()
             className="w-full h-full object-cover rounded-lg transform group-hover:scale-105 transition duration-300"
             alt="Seine River"
           />
-          <div className="absolute inset-0 bg-black bg-opacity-30 flex items-center justify-center opacity-0 group-hover:opacity-100 transition duration-300">
-            <h2 className="text-white text-2xl font-semibold">Seine River</h2>
-          </div>
+          
         </div>
       </div>
     </div>

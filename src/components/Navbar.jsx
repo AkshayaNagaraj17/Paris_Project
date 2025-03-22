@@ -7,7 +7,7 @@ function Navbar() {
       <div className=" flex justify-between">
         <div className="flex ">
           <img
-            className="h-3/4 my-auto "
+            className="h-20 lg:h-3/4 my-auto "
             src="/images/parislogo1.png"
             alt="logo"
           />
